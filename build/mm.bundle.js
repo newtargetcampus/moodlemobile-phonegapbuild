@@ -71954,9 +71954,9 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id" : "com.targetcampus",
+    "appname": "Target Campus",
+    "desktopappname": "Target Campus Desktop",
     "versioncode" : "2023",
     "versionname" : "3.4.2",
     "cache_expiration_time" : 300000,
@@ -71967,7 +71967,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://targetcampus.com",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
